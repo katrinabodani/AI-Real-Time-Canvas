@@ -7,6 +7,9 @@ connected tabs/users stay in sync.
 
 > Prompt → LLM structured output → validated/normalized JSON → live canvas.
 
+## Demo
+[Watch the demo](https://drive.google.com/file/d/11_EbuEj4dLIha90eJFOTVHajuxS6Iwpe/view?usp=sharing)
+
 ## Demo prompts
 
 - `Create a star layout with 1 center node and 6 surrounding nodes`
